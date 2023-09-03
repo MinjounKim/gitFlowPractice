@@ -7,4 +7,8 @@ class Feature2 {
     featureWorkSpace(){
         this.feature2='feature/0002-work1';
     }
+
+    sampleFun(){
+        this.feature2='rebase test';
+    }
 }

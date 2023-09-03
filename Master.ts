@@ -13,4 +13,8 @@ class Master {
     DevWorkSpace() {
         this.Dev = 'dev-work ready to merge';
     }
+
+    testFunc(){
+        console.log('aaaa');
+    }
 }

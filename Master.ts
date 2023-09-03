@@ -19,7 +19,7 @@ class Master {
     }
 
     feature1WorkSpace() {
-        this.feature1 = 'feature/0001-work';
+        this.feature1 = 'feature/0001-work rebase success!!!';
     }
 
     feature2WorkSpace() {

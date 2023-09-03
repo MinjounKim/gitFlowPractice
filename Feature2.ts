@@ -5,7 +5,7 @@ class Feature2 {
     }
 
     featureWorkSpace(){
-        this.feature2='feature/0002-work1';
+        this.feature2='feature/0002-work00';
     }
 
     sampleFun(){

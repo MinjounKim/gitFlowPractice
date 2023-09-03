@@ -15,7 +15,7 @@ class Master {
     }
 
     devWorkSpace() {
-        this.Dev = 'dev-work ready to merge';
+        this.Dev = 'dev-work rebase success!!';
     }
 
     feature1WorkSpace() {

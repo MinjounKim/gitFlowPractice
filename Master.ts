@@ -1,10 +1,16 @@
-class Master{
-    master:string|null;
-    constructor(){
-        this.master=null;
+class Master {
+    master: string | null;
+    Dev: string | null;
+
+    constructor() {
+        this.master = null;
     }
 
-    changeMaster(){
-        this.master='master-work1';
+    changeMaster() {
+        this.master = 'master-work1';
+    }
+
+    DevWorkSpace() {
+        this.Dev = 'dev-work1';
     }
 }

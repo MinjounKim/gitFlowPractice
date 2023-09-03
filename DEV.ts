@@ -5,6 +5,6 @@ class DEV {
     }
 
     featureWorkSpace(){
-        this.dev='feature0002 work --> 3-way-merge';
+        this.dev='feature0002 work --> 3-way-merge!!!';
     }
 }

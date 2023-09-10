@@ -23,6 +23,6 @@ class Master {
     }
 
     feature2WorkSpace() {
-        this.feature2 = 'feature/0002-work';
+        this.feature2 = 'feature/0002-work rebase success!!!';
     }
 }

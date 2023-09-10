@@ -11,4 +11,10 @@ class Feature2 {
     sampleFun(){
         this.feature2='rebase test';
     }
+
+    squashTest(){
+        this.feature2='add1';
+        this.feature2='add2';
+        this.feature2='add3';
+    }
 }

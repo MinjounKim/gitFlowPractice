@@ -7,4 +7,7 @@ class DEV {
     featureWorkSpace(){
         this.dev='feature0002 work --> 3-way-merge!!!';
     }
+    pullTest(){
+        this.dev='edit1';
+    }
 }
